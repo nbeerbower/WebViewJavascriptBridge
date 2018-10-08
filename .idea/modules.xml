@@ -3,7 +3,10 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/WebViewJavascriptBridge.iml" filepath="$PROJECT_DIR$/WebViewJavascriptBridge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/WebViewJavascriptBridgeFork.iml" filepath="$PROJECT_DIR$/.idea/WebViewJavascriptBridgeFork.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/webviewjavascriptbridge/webviewjavascriptbridge.iml" filepath="$PROJECT_DIR$/webviewjavascriptbridge/webviewjavascriptbridge.iml" />
       <module fileurl="file://$PROJECT_DIR$/webviewjavascriptbridge/webviewjavascriptbridge.iml" filepath="$PROJECT_DIR$/webviewjavascriptbridge/webviewjavascriptbridge.iml" />
     </modules>
   </component>
