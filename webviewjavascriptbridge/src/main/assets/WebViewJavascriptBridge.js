@@ -76,7 +76,7 @@
             }
             var handler = messageHandlers[message.handlerName];
             if (!handler) {
-                console.log("WebViewJavascriptBridge: WARNING: no handler for message from java", message);
+                console.warn("WebViewJavascriptBridge: no handler(" + message.handlerName + ") for message from java", message);
             } else {
                 handler(message.data, responseCallback);
             }
